@@ -9,7 +9,7 @@ This shows how to say hello in Python.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9N7EWKtTm1c)
 
 # Development Environment
 
@@ -19,5 +19,5 @@ This shows how to say hello in Python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+{Here is a website that I found useful in creating this program.}
 * [w3schools](w3schools.com)
